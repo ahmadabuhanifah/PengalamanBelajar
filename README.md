@@ -2,7 +2,7 @@
 Repository ini berisi pengalaman belajarku di Dicoding
 
 **21 Agustus 2023**
-  Belajar Matrikulasi
+Belajar Matrikulasi
 
 **22 Agustus 2023**
-  ILT SS
+ILT SS
